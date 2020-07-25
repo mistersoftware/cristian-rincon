@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there 👋, my name is Cristian
+#### I am Software Developer from Colombia 🇨🇴
 - 🔭 I’m currently working on [Grupodot](https://www.grupodot.com/).
 - 🌱 I’m currently learning #datascience.
 - 👯 I’m looking to collaborate on open source #Python projects.
@@ -7,3 +7,4 @@
 - 📫 How to reach me: info@cristianrincon.co | 🐦[Twitter](https://twitter.com/uncristianr) | 👨‍💻[LinkedIn](https://www.linkedin.com/in/cristian-orlando-rinc%C3%B3n-bonilla-09b3b4148/) | 🌐[Website](https://cristianrincon.co)
 
 
+Skills: Python / JS / HTML / CSS
